@@ -1,0 +1,12 @@
+﻿  Bank Extension 1.cpp
+D:\Programing\Bank Project\Bank Extension 1\Bank Extension 1.cpp(9,32): warning C4129: 'P': unrecognized character escape sequence
+D:\Programing\Bank Project\Bank Extension 1\Bank Extension 1.cpp(9,32): warning C4129: 'A': unrecognized character escape sequence
+D:\Programing\Bank Project\Bank Extension 1\Bank Extension 1.cpp(9,32): warning C4129: 'C': unrecognized character escape sequence
+D:\Programing\Bank Project\Bank Extension 1\Bank Extension 1.cpp(59,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Programing\Bank Project\Bank Extension 1\Bank Extension 1.cpp(392,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+D:\Programing\Bank Project\Bank Extension 1\Bank Extension 1.cpp(471,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+D:\Programing\Bank Project\Bank Extension 1\Bank Extension 1.cpp(562,1): warning C4715: 'DepositByAccountNumber': not all control paths return a value
+D:\Programing\Bank Project\Bank Extension 1\Bank Extension 1.cpp(613,1): warning C4715: 'WithdrawByAccountNumber': not all control paths return a value
+D:\Programing\Bank Project\Bank Extension 1\Bank Extension 1.cpp(1195,1): warning C4715: 'DeleteUserByUserName': not all control paths return a value
+D:\Programing\Bank Project\Bank Extension 1\Bank Extension 1.cpp(1259,1): warning C4715: 'UpdateUserByUserName': not all control paths return a value
+  Bank Extension 1.vcxproj -> D:\Programing\ATM System\x64\Debug\Bank Extension 1.exe
